@@ -1,1 +1,6 @@
-Hey jeg er Raag2005, jeg udvikler i lua, js, php, css, html.
+Hey i am Oskar Raagart i develop in 
+ - php
+ - js
+ - lua
+ - css
+ - html
