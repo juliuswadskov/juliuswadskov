@@ -1,6 +1,3 @@
 ## Hey i am Oskar Raagart i develop in 
- - php
- - js
- - lua
- - css
- - html
+ - PHP, JavaScript, lua, CSS and html
+ - I make a lot of scripts for the CitizenFX Collective A.K.A FiveM
