@@ -13,8 +13,8 @@ oskar_raagart.description = {
 
 oskar_raagart.print = function(table)
   print(table.title)
-  for k, v in pairs(table) do
-     print(v.everythingElse)
+  for k, v in pairs(table.everythingElse) do
+     print(v)
   end
 end
 
