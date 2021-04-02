@@ -1,3 +1,4 @@
+## JavaScript
 ```js
 const name = `raag2005`
 const discord = `raag2005#0001`
@@ -13,6 +14,7 @@ for (const key in websites) {
 }
 ```
 
+## Lua
 ```lua
 local name = 'raag2005'
 local discord = 'raag2005#0001'
