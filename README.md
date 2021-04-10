@@ -20,7 +20,7 @@ local name = 'raag2005'
 local discord = 'raag2005#0001'
 local twitch = 'https://www.twitch.tv/raag2005_'
 
-local websites = {'raag2005.dk', 'raagart.com}
+local websites = {'raag2005.dk', 'raagart.com'}
 
 print('Hello i am ' .. name)
 print('my twitch is ' .. twitch)
