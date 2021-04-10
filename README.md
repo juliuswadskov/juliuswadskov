@@ -4,7 +4,7 @@ const name = `raag2005`
 const discord = `raag2005#0001`
 const twitch = `https://www.twitch.tv/raag2005_`
 
-const websites = ['raag2005.dk']
+const websites = ['raag2005.dk', 'raagart.com']
 
 console.log(`Hello i am ${name}`)
 console.log(`my twitch is ${twitch}`)
