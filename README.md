@@ -2,4 +2,4 @@
 🤓  15 y/o backend focused programmer from Denmark           
 👾  Currently working on a express website!
 
-Join my [discord](http://raag2005.dk)
+Consider joining my [discord](http://raag2005.dk)
